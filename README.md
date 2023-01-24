@@ -1,2 +1,2 @@
-# software_QA-_test_automation
+# software_QA_test_automation
 QA frameworks development using Selenium ,Cucumber ,TestNG, Rest API 
