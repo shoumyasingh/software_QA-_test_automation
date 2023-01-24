@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="7" time="141.741943">
+    <testcase classname="As a customer, I want to search multiple products" name="Add first product to cart" time="74.12981">
+        <system-out>
+            <![CDATA[Given Open the Chrome and go to Target website..............................passed
+When Select a category and subcategory......................................passed
+And Apply filters...........................................................passed
+And Select product..........................................................passed
+Then Take Screenshot........................................................passed
+And Add product to cart.....................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="As a customer, I want to search multiple products" name="Add more products to the cart" time="37.451241">
+        <system-out>
+            <![CDATA[Given Go to home page.......................................................passed
+When Enter the product to be searched "TV"..................................passed
+And Apply filters to "TV" "1000" "1500".....................................passed
+Then Take Screenshot........................................................passed
+And Select and add to cart..................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="As a customer, I want to search multiple products" name="Add more products to the cart 2" time="22.507665">
+        <system-out>
+            <![CDATA[Given Go to home page.......................................................passed
+When Enter the product to be searched "iPad"................................passed
+And Apply filters to "iPad" "500" "1000"....................................passed
+Then Take Screenshot........................................................passed
+And Select and add to cart..................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="As a customer, I want to search multiple products" name="Navigate to cart" time="4.670109">
+        <system-out>
+            <![CDATA[Given Go to cart............................................................passed
+Then Take Screenshot........................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="As a customer, I want to search multiple products" name="Verify cart total" time="0.106943">
+        <system-out>
+            <![CDATA[Given Cart is loaded........................................................passed
+Then Verifies Cart Amount...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="As a customer, I want to search multiple products" name="Verify delivery" time="0.065413">
+        <system-out>
+            <![CDATA[Given Cart is loaded........................................................passed
+Then Verifies Delivery Fee..................................................passed
+And Verifies Checkout Button................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="As a customer, I want to search multiple products" name="Verify Checkout For Non-Auth Customers" time="2.810762">
+        <system-out>
+            <![CDATA[Given Cart is loaded........................................................passed
+Then Goes to checkout.......................................................passed
+And Validates Sign In Modal.................................................passed
+Then Close and quit.........................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

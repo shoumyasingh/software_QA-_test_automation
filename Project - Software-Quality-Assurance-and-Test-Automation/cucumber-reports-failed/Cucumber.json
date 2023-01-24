@@ -1,0 +1,489 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Add first product to cart",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;add-first-product-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 28580934625,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Open the Chrome and go to Target website",
+            "match": {
+              "location": "Target_E2E_Automation.open_the_chrome_and_go_to_target_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Christmas Lights111\"}\n  (Session info: chrome\u003d108.0.5359.124)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.5.0\u0027, revision: \u0027fe167b119a\u0027\nSystem info: os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002711.4\u0027, java.version: \u002711.0.13\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [72eb193fae04eca826830fa91a8cd049, findElement {using\u003dlink text, value\u003dChristmas Lights111}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.124, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/qb/lrmhzs7x2mx...}, goog:chromeOptions: {debuggerAddress: localhost:49581}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:49581/devtoo..., se:cdpVersion: 108.0.5359.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 72eb193fae04eca826830fa91a8cd049\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)\n\tat StepDefinition.Target_E2E_Automation.select_a_category_and_subcategory(Target_E2E_Automation.java:69)\n\tat ✽.Select a category and subcategory(file:Feature/target.feature:7)\n",
+              "duration": 18461592500,
+              "status": "failed"
+            },
+            "line": 7,
+            "name": "Select a category and subcategory",
+            "match": {
+              "location": "Target_E2E_Automation.select_a_category_and_subcategory()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7666,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Apply filters",
+            "match": {
+              "location": "Target_E2E_Automation.apply_filters()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2750,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "Select product",
+            "match": {
+              "location": "Target_E2E_Automation.select_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2375,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "Take Screenshot",
+            "match": {
+              "location": "Target_E2E_Automation.take_screenshot()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1917,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "Add product to cart",
+            "match": {
+              "location": "Target_E2E_Automation.add_product_to_cart()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test1"
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Add more products to the cart",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;add-more-products-to-the-cart;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7632940500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Go to home page",
+            "match": {
+              "location": "Target_E2E_Automation.go_to_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5049239792,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Enter the product to be searched \"TV\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"TV\"",
+                  "offset": 33
+                }
+              ],
+              "location": "Target_E2E_Automation.enter_the_product_to_be_searched(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element \u003cbutton type\u003d\"button\" aria-label\u003d\"...\" data-test\u003d\"pillButton\" class\u003d\"BaseButton-sc-j0jbcc-0 styles__PillStyledButton-sc-1mpm9rk-2 dIJYmd hZpkQU\"\u003ePopular TV Screen Sizes\u003c/button\u003e is not clickable at point (1234, 22). Other element would receive the click: \u003cdiv class\u003d\"styles__LinkContainer-sc-u2k6h-2 dnhWpM\"\u003e...\u003c/div\u003e\n  (Session info: chrome\u003d108.0.5359.124)\nBuild info: version: \u00274.5.0\u0027, revision: \u0027fe167b119a\u0027\nSystem info: os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002711.4\u0027, java.version: \u002711.0.13\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [72eb193fae04eca826830fa91a8cd049, clickElement {id\u003ddada6e18-ea54-4aa8-bdd3-cf87c075327d}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.124, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/qb/lrmhzs7x2mx...}, goog:chromeOptions: {debuggerAddress: localhost:49581}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:49581/devtoo..., se:cdpVersion: 108.0.5359.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on MAC (72eb193fae04eca826830fa91a8cd049)] -\u003e xpath: //button[text()\u003d\u0027Popular TV Screen Sizes\u0027]]\nSession ID: 72eb193fae04eca826830fa91a8cd049\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)\n\tat StepDefinition.Target_E2E_Automation.apply_filters_to(Target_E2E_Automation.java:144)\n\tat ✽.Apply filters to \"TV\" \"1000\" \"1500\"(file:Feature/target.feature:17)\n",
+              "duration": 3759547166,
+              "status": "failed"
+            },
+            "line": 17,
+            "name": "Apply filters to \"TV\" \"1000\" \"1500\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"TV\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"1000\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"1500\"",
+                  "offset": 29
+                }
+              ],
+              "location": "Target_E2E_Automation.apply_filters_to(String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4500,
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "Take Screenshot",
+            "match": {
+              "location": "Target_E2E_Automation.take_screenshot()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2958,
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "Select and add to cart",
+            "match": {
+              "location": "Target_E2E_Automation.select_and_add_to_cart()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test2"
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Add more products to the cart",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;add-more-products-to-the-cart;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5928095667,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Go to home page",
+            "match": {
+              "location": "Target_E2E_Automation.go_to_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3445348834,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Enter the product to be searched \"iPad\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"iPad\"",
+                  "offset": 33
+                }
+              ],
+              "location": "Target_E2E_Automation.enter_the_product_to_be_searched(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9736549209,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Apply filters to \"iPad\" \"500\" \"1000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"iPad\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"500\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"1000\"",
+                  "offset": 30
+                }
+              ],
+              "location": "Target_E2E_Automation.apply_filters_to(String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 952476583,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Take Screenshot",
+            "match": {
+              "location": "Target_E2E_Automation.take_screenshot()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element \u003cbutton type\u003d\"button\" aria-label\u003d\"... for Apple iPad Air 10.9-inch Wi-Fi Only 256GB (2022, 5th Generation) - Space Gray\" data-test\u003d\"orderPickupButton\" id\u003d\"addToCartButtonOrTextIdFor77616342\" class\u003d\"BaseButton-sc-j0jbcc-0 ButtonPrimary-sc-1qgspc1-0 fdaZTm eitQue\"\u003eAdd to cart\u003c/button\u003e is not clickable at point (1237, 22). Other element would receive the click: \u003cdiv class\u003d\"styles__StyledCol-sc-fw90uk-0 cqPkcs styles__StyledPriceAndAddToCartCol-sc-1thkghn-1 imcmqh h-padding-l-tight\"\u003e...\u003c/div\u003e\n  (Session info: chrome\u003d108.0.5359.124)\nBuild info: version: \u00274.5.0\u0027, revision: \u0027fe167b119a\u0027\nSystem info: os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002711.4\u0027, java.version: \u002711.0.13\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [72eb193fae04eca826830fa91a8cd049, clickElement {id\u003df94160fc-bc47-446b-83de-4c9de9582632}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.124, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/qb/lrmhzs7x2mx...}, goog:chromeOptions: {debuggerAddress: localhost:49581}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:49581/devtoo..., se:cdpVersion: 108.0.5359.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on MAC (72eb193fae04eca826830fa91a8cd049)] -\u003e xpath: //button[text()\u003d\u0027Add to cart\u0027]]\nSession ID: 72eb193fae04eca826830fa91a8cd049\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)\n\tat StepDefinition.Target_E2E_Automation.select_and_add_to_cart(Target_E2E_Automation.java:179)\n\tat ✽.Select and add to cart(file:Feature/target.feature:19)\n",
+              "duration": 3581561167,
+              "status": "failed"
+            },
+            "line": 19,
+            "name": "Select and add to cart",
+            "match": {
+              "location": "Target_E2E_Automation.select_and_add_to_cart()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test2"
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "Navigate to cart",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;navigate-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()\u003d\u0027View cart \u0026 check out\u0027]\"}\n  (Session info: chrome\u003d108.0.5359.124)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.5.0\u0027, revision: \u0027fe167b119a\u0027\nSystem info: os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002711.4\u0027, java.version: \u002711.0.13\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [72eb193fae04eca826830fa91a8cd049, findElement {using\u003dxpath, value\u003d//a[text()\u003d\u0027View cart \u0026 check out\u0027]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.124, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/qb/lrmhzs7x2mx...}, goog:chromeOptions: {debuggerAddress: localhost:49581}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:49581/devtoo..., se:cdpVersion: 108.0.5359.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 72eb193fae04eca826830fa91a8cd049\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)\n\tat StepDefinition.Target_E2E_Automation.go_to_cart(Target_E2E_Automation.java:188)\n\tat ✽.Go to cart(file:Feature/target.feature:27)\n",
+              "duration": 10074709750,
+              "status": "failed"
+            },
+            "line": 27,
+            "name": "Go to cart",
+            "match": {
+              "location": "Target_E2E_Automation.go_to_cart()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 19541,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "Take Screenshot",
+            "match": {
+              "location": "Target_E2E_Automation.take_screenshot()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test3"
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "name": "Verify cart total",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;verify-cart-total",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for number of elements found by By.cssSelector: div[data-test\u003d\"cartItem\"] to be more than \"0\". Current number: \"0\" (tried for 8 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.5.0\u0027, revision: \u0027fe167b119a\u0027\nSystem info: os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002711.4\u0027, java.version: \u002711.0.13\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.124, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/qb/lrmhzs7x2mx...}, goog:chromeOptions: {debuggerAddress: localhost:49581}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:49581/devtoo..., se:cdpVersion: 108.0.5359.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 72eb193fae04eca826830fa91a8cd049\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)\n\tat StepDefinition.Target_E2E_Automation.waitsForElement(Target_E2E_Automation.java:209)\n\tat StepDefinition.Target_E2E_Automation.checkIfCartLoaded(Target_E2E_Automation.java:225)\n\tat ✽.Cart is loaded(file:Feature/target.feature:32)\n",
+              "duration": 10065813750,
+              "status": "failed"
+            },
+            "line": 32,
+            "name": "Cart is loaded",
+            "match": {
+              "location": "Target_E2E_Automation.checkIfCartLoaded()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10917,
+              "status": "skipped"
+            },
+            "line": 33,
+            "name": "Verifies Cart Amount",
+            "match": {
+              "location": "Target_E2E_Automation.verifiesCartTotalAmount()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test4"
+          }
+        ]
+      },
+      {
+        "line": 36,
+        "name": "Verify delivery",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;verify-delivery",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for number of elements found by By.cssSelector: div[data-test\u003d\"cartItem\"] to be more than \"0\". Current number: \"0\" (tried for 8 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.5.0\u0027, revision: \u0027fe167b119a\u0027\nSystem info: os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002711.4\u0027, java.version: \u002711.0.13\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.124, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/qb/lrmhzs7x2mx...}, goog:chromeOptions: {debuggerAddress: localhost:49581}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:49581/devtoo..., se:cdpVersion: 108.0.5359.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 72eb193fae04eca826830fa91a8cd049\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)\n\tat StepDefinition.Target_E2E_Automation.waitsForElement(Target_E2E_Automation.java:209)\n\tat StepDefinition.Target_E2E_Automation.checkIfCartLoaded(Target_E2E_Automation.java:225)\n\tat ✽.Cart is loaded(file:Feature/target.feature:37)\n",
+              "duration": 10094934834,
+              "status": "failed"
+            },
+            "line": 37,
+            "name": "Cart is loaded",
+            "match": {
+              "location": "Target_E2E_Automation.checkIfCartLoaded()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9667,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "Verifies Delivery Fee",
+            "match": {
+              "location": "Target_E2E_Automation.verifiesDeliveryInfo()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7458,
+              "status": "skipped"
+            },
+            "line": 39,
+            "name": "Verifies Checkout Button",
+            "match": {
+              "location": "Target_E2E_Automation.verifiesCheckoutBtn()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test5"
+          }
+        ]
+      },
+      {
+        "line": 42,
+        "name": "Verify Checkout For Non-Auth Customers",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;verify-checkout-for-non-auth-customers",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for number of elements found by By.cssSelector: div[data-test\u003d\"cartItem\"] to be more than \"0\". Current number: \"0\" (tried for 8 second(s) with 500 milliseconds interval)\nBuild info: version: \u00274.5.0\u0027, revision: \u0027fe167b119a\u0027\nSystem info: os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002711.4\u0027, java.version: \u002711.0.13\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.124, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/qb/lrmhzs7x2mx...}, goog:chromeOptions: {debuggerAddress: localhost:49581}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:49581/devtoo..., se:cdpVersion: 108.0.5359.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 72eb193fae04eca826830fa91a8cd049\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)\n\tat StepDefinition.Target_E2E_Automation.waitsForElement(Target_E2E_Automation.java:209)\n\tat StepDefinition.Target_E2E_Automation.checkIfCartLoaded(Target_E2E_Automation.java:225)\n\tat ✽.Cart is loaded(file:Feature/target.feature:43)\n",
+              "duration": 10050973334,
+              "status": "failed"
+            },
+            "line": 43,
+            "name": "Cart is loaded",
+            "match": {
+              "location": "Target_E2E_Automation.checkIfCartLoaded()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6792,
+              "status": "skipped"
+            },
+            "line": 44,
+            "name": "Goes to checkout",
+            "match": {
+              "location": "Target_E2E_Automation.verifiesSignInModalForNonAuth()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4083,
+              "status": "skipped"
+            },
+            "line": 45,
+            "name": "Validates Sign In Modal",
+            "match": {
+              "location": "Target_E2E_Automation.validatesSignInForm()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3417,
+              "status": "skipped"
+            },
+            "line": 46,
+            "name": "Close and quit",
+            "match": {
+              "location": "Target_E2E_Automation.close_and_quit()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test6"
+          }
+        ]
+      }
+    ],
+    "name": "As a customer, I want to search multiple products",
+    "description": "  and apply the required filters and add them to the cart.",
+    "id": "as-a-customer--i-want-to-search-multiple-products",
+    "keyword": "Feature",
+    "uri": "file:Feature/target.feature",
+    "tags": []
+  }
+]

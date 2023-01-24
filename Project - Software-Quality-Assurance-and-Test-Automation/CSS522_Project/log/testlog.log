@@ -1,0 +1,298 @@
+2022-12-13 22:13:08 - StepDefinition.Target_E2E_Automation -DEBUG - Hello this is a debug message
+2022-12-13 22:13:08 - StepDefinition.Target_E2E_Automation -INFO - Hello this is an info message
+2022-12-13 22:13:08 - StepDefinition.Target_E2E_Automation -ERROR - Hello this is an error message
+2022-12-13 22:14:39 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-13 22:24:33 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-13 22:24:52 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters method
+2022-12-13 22:25:02 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select product method
+2022-12-13 22:25:11 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:25:12 - StepDefinition.Target_E2E_Automation -DEBUG - Inside add product to cart method
+2022-12-13 22:25:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-13 22:25:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-13 22:25:28 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-13 22:25:47 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:25:49 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-13 22:25:55 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-13 22:26:00 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-13 22:26:03 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-13 22:26:11 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:26:12 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-13 22:26:19 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-13 22:26:23 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:26:23 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:26:23 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-13 22:26:23 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:26:23 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:26:23 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart total amount method
+2022-12-13 22:26:23 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -INFO - Verified Total Amount
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside delivery info method
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -INFO - Verified Delivery Fee
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside checkout button method
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -INFO - Verified Checkout Button
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside sign in modal for non auth method
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -INFO - Sign In Modal loaded for non-auth users
+2022-12-13 22:26:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside validates sign in form method
+2022-12-13 22:26:25 - StepDefinition.Target_E2E_Automation -INFO - Verified Title
+2022-12-13 22:26:26 - StepDefinition.Target_E2E_Automation -INFO - Verified Username field validations
+2022-12-13 22:26:26 - StepDefinition.Target_E2E_Automation -INFO - Verified Password field validations
+2022-12-13 22:26:26 - StepDefinition.Target_E2E_Automation -DEBUG - Closing all the sessions
+2022-12-13 22:36:36 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-13 22:36:52 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters method
+2022-12-13 22:37:02 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select product method
+2022-12-13 22:37:12 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:37:13 - StepDefinition.Target_E2E_Automation -DEBUG - Inside add product to cart method
+2022-12-13 22:37:14 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-13 22:37:22 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-13 22:37:26 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-13 22:37:41 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:37:42 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-13 22:37:48 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-13 22:37:52 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-13 22:37:56 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-13 22:38:04 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:38:05 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-13 22:38:11 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-13 22:38:15 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:38:15 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart total amount method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -INFO - Verified Total Amount
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside delivery info method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -INFO - Verified Delivery Fee
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside checkout button method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -INFO - Verified Checkout Button
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside sign in modal for non auth method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -INFO - Sign In Modal loaded for non-auth users
+2022-12-13 22:38:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside validates sign in form method
+2022-12-13 22:38:17 - StepDefinition.Target_E2E_Automation -INFO - Verified Title
+2022-12-13 22:38:18 - StepDefinition.Target_E2E_Automation -INFO - Verified Username field validations
+2022-12-13 22:38:18 - StepDefinition.Target_E2E_Automation -INFO - Verified Password field validations
+2022-12-13 22:38:18 - StepDefinition.Target_E2E_Automation -DEBUG - Closing all the sessions
+2022-12-13 22:40:52 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-13 22:41:07 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters method
+2022-12-13 22:41:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select product method
+2022-12-13 22:41:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:41:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside add product to cart method
+2022-12-13 22:41:32 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-13 22:41:40 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-13 22:41:45 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-13 22:42:00 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:42:01 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-13 22:42:05 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-13 22:42:09 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-13 22:42:13 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-13 22:42:21 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:42:22 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-13 22:42:29 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-13 22:42:33 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:42:33 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart total amount method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -INFO - Verified Total Amount
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside delivery info method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -INFO - Verified Delivery Fee
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside checkout button method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -INFO - Verified Checkout Button
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside sign in modal for non auth method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -INFO - Sign In Modal loaded for non-auth users
+2022-12-13 22:42:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside validates sign in form method
+2022-12-13 22:42:35 - StepDefinition.Target_E2E_Automation -INFO - Verified Title
+2022-12-13 22:42:37 - StepDefinition.Target_E2E_Automation -INFO - Verified Username field validations
+2022-12-13 22:42:37 - StepDefinition.Target_E2E_Automation -INFO - Verified Password field validations
+2022-12-13 22:42:37 - StepDefinition.Target_E2E_Automation -DEBUG - Closing all the sessions
+2022-12-16 10:33:26 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-16 10:33:48 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:33:56 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 10:33:56 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:33:56 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-16 10:33:56 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:33:56 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:37:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-16 10:37:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters method
+2022-12-16 10:37:45 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select product method
+2022-12-16 10:37:47 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:37:47 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:37:47 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-16 10:37:47 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:37:47 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:40:35 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-16 10:40:52 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters method
+2022-12-16 10:41:03 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select product method
+2022-12-16 10:41:12 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 10:41:12 - StepDefinition.Target_E2E_Automation -DEBUG - Inside add product to cart method
+2022-12-16 10:41:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:41:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 10:41:29 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-16 10:41:43 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 10:41:44 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-16 10:41:51 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:41:54 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 10:41:58 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-16 10:42:06 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 10:42:06 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-16 10:42:13 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-16 10:42:17 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 10:42:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 10:42:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:42:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart total amount method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -INFO - Verified Total Amount
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside delivery info method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -INFO - Verified Delivery Fee
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside checkout button method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -INFO - Verified Checkout Button
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside sign in modal for non auth method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -INFO - Sign In Modal loaded for non-auth users
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside validates sign in form method
+2022-12-16 10:42:18 - StepDefinition.Target_E2E_Automation -INFO - Verified Title
+2022-12-16 10:42:20 - StepDefinition.Target_E2E_Automation -INFO - Verified Username field validations
+2022-12-16 10:42:20 - StepDefinition.Target_E2E_Automation -INFO - Verified Password field validations
+2022-12-16 10:42:20 - StepDefinition.Target_E2E_Automation -DEBUG - Closing all the sessions
+2022-12-16 10:50:26 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-16 10:50:45 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters method
+2022-12-16 10:50:57 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select product method
+2022-12-16 10:51:08 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 10:51:08 - StepDefinition.Target_E2E_Automation -DEBUG - Inside add product to cart method
+2022-12-16 10:51:13 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:51:19 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 10:51:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-16 10:51:42 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 10:51:43 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-16 10:51:49 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:51:53 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 10:51:56 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-16 10:52:05 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 10:52:05 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-16 10:52:12 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-16 10:52:16 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 10:52:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart total amount method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -INFO - Verified Total Amount
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside delivery info method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -INFO - Verified Delivery Fee
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside checkout button method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -INFO - Verified Checkout Button
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside sign in modal for non auth method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -INFO - Sign In Modal loaded for non-auth users
+2022-12-16 10:52:17 - StepDefinition.Target_E2E_Automation -DEBUG - Inside validates sign in form method
+2022-12-16 10:52:18 - StepDefinition.Target_E2E_Automation -INFO - Verified Title
+2022-12-16 10:52:20 - StepDefinition.Target_E2E_Automation -INFO - Verified Username field validations
+2022-12-16 10:52:20 - StepDefinition.Target_E2E_Automation -INFO - Verified Password field validations
+2022-12-16 10:52:20 - StepDefinition.Target_E2E_Automation -DEBUG - Closing all the sessions
+2022-12-16 10:57:13 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-16 10:57:33 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:57:40 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 10:57:43 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-16 10:58:36 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:58:36 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:58:36 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-16 10:58:36 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:58:36 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:58:45 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 10:58:45 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 10:59:25 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-16 10:59:44 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 10:59:51 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 10:59:56 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-16 11:00:00 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 11:00:06 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 11:00:10 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-16 11:00:19 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 11:00:20 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-16 11:00:24 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-16 11:00:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 11:00:34 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 11:00:44 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 11:00:44 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 11:00:54 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 11:00:54 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 11:03:41 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select a category and subcategory method
+2022-12-16 11:03:57 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters method
+2022-12-16 11:04:08 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select product method
+2022-12-16 11:04:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 11:04:18 - StepDefinition.Target_E2E_Automation -DEBUG - Inside add product to cart method
+2022-12-16 11:04:23 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 11:04:33 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 11:04:37 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-16 11:04:53 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 11:04:54 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-16 11:05:00 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to home page method
+2022-12-16 11:05:04 - StepDefinition.Target_E2E_Automation -DEBUG - Inside enter the product to be searched method
+2022-12-16 11:05:08 - StepDefinition.Target_E2E_Automation -DEBUG - Inside apply filters to product method
+2022-12-16 11:05:15 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 11:05:16 - StepDefinition.Target_E2E_Automation -DEBUG - Inside select and add to cart method
+2022-12-16 11:05:23 - StepDefinition.Target_E2E_Automation -DEBUG - Inside go to cart method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside take screenshot method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart total amount method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -INFO - Verified Total Amount
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside delivery info method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -INFO - Verified Delivery Fee
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside checkout button method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -INFO - Verified Checkout Button
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside cart loaded method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -INFO - Cart Loaded
+2022-12-16 11:05:27 - StepDefinition.Target_E2E_Automation -DEBUG - Inside sign in modal for non auth method
+2022-12-16 11:05:28 - StepDefinition.Target_E2E_Automation -DEBUG - Inside wait for elements method
+2022-12-16 11:05:28 - StepDefinition.Target_E2E_Automation -INFO - Sign In Modal loaded for non-auth users
+2022-12-16 11:05:28 - StepDefinition.Target_E2E_Automation -DEBUG - Inside validates sign in form method
+2022-12-16 11:05:28 - StepDefinition.Target_E2E_Automation -INFO - Verified Title
+2022-12-16 11:05:30 - StepDefinition.Target_E2E_Automation -INFO - Verified Username field validations
+2022-12-16 11:05:30 - StepDefinition.Target_E2E_Automation -INFO - Verified Password field validations
+2022-12-16 11:05:30 - StepDefinition.Target_E2E_Automation -DEBUG - Closing all the sessions

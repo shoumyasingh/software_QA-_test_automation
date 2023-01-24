@@ -1,0 +1,482 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Add first product to cart",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;add-first-product-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 32433331709,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Open the Chrome and go to Target website",
+            "match": {
+              "location": "Target_E2E_Automation.open_the_chrome_and_go_to_target_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 16365556500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Select a category and subcategory",
+            "match": {
+              "location": "Target_E2E_Automation.select_a_category_and_subcategory()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10320115334,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Apply filters",
+            "match": {
+              "location": "Target_E2E_Automation.apply_filters()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9926970250,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Select product",
+            "match": {
+              "location": "Target_E2E_Automation.select_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 643785708,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Take Screenshot",
+            "match": {
+              "location": "Target_E2E_Automation.take_screenshot()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4435414000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Add product to cart",
+            "match": {
+              "location": "Target_E2E_Automation.add_product_to_cart()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test1"
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Add more products to the cart",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;add-more-products-to-the-cart;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9986243958,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Go to home page",
+            "match": {
+              "location": "Target_E2E_Automation.go_to_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4203448708,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Enter the product to be searched \"TV\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"TV\"",
+                  "offset": 33
+                }
+              ],
+              "location": "Target_E2E_Automation.enter_the_product_to_be_searched(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15935194666,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Apply filters to \"TV\" \"1000\" \"1500\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"TV\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"1000\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"1500\"",
+                  "offset": 29
+                }
+              ],
+              "location": "Target_E2E_Automation.apply_filters_to(String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 896952208,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Take Screenshot",
+            "match": {
+              "location": "Target_E2E_Automation.take_screenshot()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6427868000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Select and add to cart",
+            "match": {
+              "location": "Target_E2E_Automation.select_and_add_to_cart()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test2"
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Add more products to the cart",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;add-more-products-to-the-cart;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4002149458,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Go to home page",
+            "match": {
+              "location": "Target_E2E_Automation.go_to_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3384584542,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Enter the product to be searched \"iPad\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"iPad\"",
+                  "offset": 33
+                }
+              ],
+              "location": "Target_E2E_Automation.enter_the_product_to_be_searched(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7903948958,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Apply filters to \"iPad\" \"500\" \"1000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"iPad\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"500\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"1000\"",
+                  "offset": 30
+                }
+              ],
+              "location": "Target_E2E_Automation.apply_filters_to(String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 782537583,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Take Screenshot",
+            "match": {
+              "location": "Target_E2E_Automation.take_screenshot()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6432377125,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Select and add to cart",
+            "match": {
+              "location": "Target_E2E_Automation.select_and_add_to_cart()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test2"
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "Navigate to cart",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;navigate-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4294918583,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Go to cart",
+            "match": {
+              "location": "Target_E2E_Automation.go_to_cart()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 373216541,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "Take Screenshot",
+            "match": {
+              "location": "Target_E2E_Automation.take_screenshot()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test3"
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "name": "Verify cart total",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;verify-cart-total",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 64728125,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "Cart is loaded",
+            "match": {
+              "location": "Target_E2E_Automation.checkIfCartLoaded()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 41138167,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "Verifies Cart Amount",
+            "match": {
+              "location": "Target_E2E_Automation.verifiesCartTotalAmount()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test4"
+          }
+        ]
+      },
+      {
+        "line": 36,
+        "name": "Verify delivery",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;verify-delivery",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8144541,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "Cart is loaded",
+            "match": {
+              "location": "Target_E2E_Automation.checkIfCartLoaded()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 26839125,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "Verifies Delivery Fee",
+            "match": {
+              "location": "Target_E2E_Automation.verifiesDeliveryInfo()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 30254542,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "Verifies Checkout Button",
+            "match": {
+              "location": "Target_E2E_Automation.verifiesCheckoutBtn()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test5"
+          }
+        ]
+      },
+      {
+        "line": 42,
+        "name": "Verify Checkout For Non-Auth Customers",
+        "description": "",
+        "id": "as-a-customer--i-want-to-search-multiple-products;verify-checkout-for-non-auth-customers",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6635166,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "Cart is loaded",
+            "match": {
+              "location": "Target_E2E_Automation.checkIfCartLoaded()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 234560334,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "Goes to checkout",
+            "match": {
+              "location": "Target_E2E_Automation.verifiesSignInModalForNonAuth()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2267397542,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "Validates Sign In Modal",
+            "match": {
+              "location": "Target_E2E_Automation.validatesSignInForm()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 302015125,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "Close and quit",
+            "match": {
+              "location": "Target_E2E_Automation.close_and_quit()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test6"
+          }
+        ]
+      }
+    ],
+    "name": "As a customer, I want to search multiple products",
+    "description": "  and apply the required filters and add them to the cart.",
+    "id": "as-a-customer--i-want-to-search-multiple-products",
+    "keyword": "Feature",
+    "uri": "file:Feature/target.feature",
+    "tags": []
+  }
+]
